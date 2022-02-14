@@ -1,1 +1,1 @@
-# ☁️ console application that can give you actual weather state by location name
+# ☁️ console application that can gives you actual weather state by location name
